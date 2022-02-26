@@ -1,6 +1,6 @@
 # SerkanOzkann.github.io
 http://SerkanOzkann.github.io
 
-Personel Web Sites
+Personel Web Site
 
 
